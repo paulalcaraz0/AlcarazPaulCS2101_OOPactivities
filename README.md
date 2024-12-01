@@ -39,6 +39,47 @@ Feel free to explore, learn, and enjoy the code! 🚀
 
 ---
 
+
+# 📂 **Project Directory Structure**
+
+Below is the outline of the directory structure for this project:
+
+```
+CS-211-Repository/
+├── Exercise Sets/                      # Contains all the exercise sets for the course
+│   ├── ExerciseSet01/                  # Directory for Exercise Set 01
+│   │   ├── Welcome.java
+│   │   ├── Tempconvert.java
+│   │   └── Escseq.java
+│   ├── ExerciseSet02/                  # Directory for Exercise Set 02
+│   │   ├── Car.java
+│   │   └── Main.java
+├── Laboratory Activities/              # Contains all laboratory activities
+│   ├── LabActivity01/                  # Directory for Lab Activity 01
+│   │   ├── GettingInputs.java
+│   │   └── ASCIIValues.java
+│   ├── LabActivity02/                  # Directory for Lab Activity 02
+│   │   ├── ArrayMean.java
+│   │   └── MultiplicationTable.java
+│   ├── LabActivity03/                  # Directory for Lab Activity 03
+│   │   ├── Artist.java
+│   │   ├── Dancer.java
+│   │   ├── Painter.java
+│   │   ├── Singer.java
+│   │   ├── Writer.java
+│   │   └── ArtistDemo.java
+│   ├── LabActivity04/                  # Directory for Lab Activity 04
+│   │   ├── Main.java
+│   │   ├── Shape.java
+│   │   ├── Rectangle.java
+│   │   ├── Square.java
+│   │   ├── Triangle.java
+│   │   ├── ShapeCollection.java
+│   │   └── Lab4-output.png
+└── README.md
+```
+---
+
 ## 📋 **Course Requirements Checklist**  
 
 This repository contains all required tasks for **CS-211**, including:  
